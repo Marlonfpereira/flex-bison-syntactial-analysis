@@ -1,0 +1,10 @@
+90
+int
+for
+if
+begin
+end
+function
+a
+b
+c
